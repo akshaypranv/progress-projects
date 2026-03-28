@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(60, 49, 35);
+}
+h1{
+    margin:0px;
+    text-align: center;
+    color:rgb(229, 173, 149)
+}
+h2{
+    text-align: center;
+    color:rgb(183, 139, 120)
+}
+
+img{
+        width: 300px;
+        height: 300px;
+        float: left;
+        margin-left: 300px;
+    }
+
+h3,p{
+        color: azure;
+        margin-left: 300px;
+    }
+footer{
+    float: clear;
+    text-align: center;
+    margin-top: 100px;
+}
+br{
+    margin: 0px;
+}
+
+.const{
+    display: inline-block;
+}
+.beauty{
+    display: inline-block;
+}
+h3{
+    text-decoration-line: underline;
+}
