@@ -15,12 +15,12 @@ img{
         width: 300px;
         height: 300px;
         float: left;
-        margin-left: 300px;
+        margin-left: 50%;
     }
 
 h3,p{
         color: azure;
-        margin-left: 300px;
+        margin-left: 50%;
     }
 footer{
     float: clear;
