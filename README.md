@@ -19,3 +19,8 @@ A design-to-code project focusing on typography and visual hierarchy.
 A business-facing landing page project that implements multi-column layouts and professional typography standards.
 * **Technicals:** Leveraged the `float` property for sophisticated element positioning, custom `text-decoration` for interactive UI elements, and full-width header "hero" sections.
 * **Objective:** Mastering the transition from single-column documents to multi-column business layouts. Focused on content alignment and creating a visual "flow" for a professional agency brand.
+
+### 💳 Responsive Pricing Architecture
+A SaaS-style pricing component designed to demonstrate **Fluid Layout Transitions**.
+* **Technicals:** Mastered `flex-direction` toggling and breakpoints to switch between vertical mobile stacks and horizontal desktop grids.
+* **Objective:** Achieving a "Contract and Expand" logic that ensures a premium user experience on any device size.
