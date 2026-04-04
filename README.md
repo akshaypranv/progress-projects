@@ -25,7 +25,7 @@ A SaaS-style pricing component designed to demonstrate **Fluid Layout Transition
 * **Technicals:** Mastered `flex-direction` toggling and breakpoints to switch between vertical mobile stacks and horizontal desktop grids.
 * **Objective:** Achieving a "Contract and Expand" logic that ensures a premium user experience on any device size.
 
-# 🎨 Mondrian Project: Asymmetric Grid Architecture
+### 🎨 Mondrian Project: Asymmetric Grid Architecture
 A technical study in **Abstract UI Composition** using the **CSS Grid** engine.
 * **Technicals:** Mastered **Line-Based Placement** and **Spanning Logic** to create a non-uniform coordinate system.
 * **Objective:** To build complex, irregular layouts using **Fractional Geometry** and **Box Model Precision** for surgical element placement.
