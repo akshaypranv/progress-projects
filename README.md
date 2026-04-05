@@ -1,11 +1,11 @@
 ## 📁 Featured Practice Projects
 
-### 🎓 Capstone 1: Multi-Page Web Architecture
+### 🎓 Multi-Page Website
 A comprehensive, pure HTML project designed to master document structure and site navigation.
 * **Technicals:** Implemented full HTML5 boilerplate, semantic tags, internal/external linking, and media embedding.
 * **Objective:** Building a multi-page environment to understand how browsers parse complex document trees before moving to SPAs (Single Page Applications).
 
-### 🚩 CSS Flag Logic
+### 🚩 Flag Making
 A creative exercise in geometric styling and CSS layouts.
 * **Technicals:** Heavy use of the **CSS Box Model**, absolute/relative positioning, and background styling.
 * **Objective:** Recreating complex visual patterns using only code, ensuring precision in element sizing and alignment.
@@ -25,7 +25,7 @@ A SaaS-style pricing component designed to demonstrate **Fluid Layout Transition
 * **Technicals:** Mastered `flex-direction` toggling and breakpoints to switch between vertical mobile stacks and horizontal desktop grids.
 * **Objective:** Achieving a "Contract and Expand" logic that ensures a premium user experience on any device size.
 
-### 🎨 Mondrian Project: Asymmetric Grid Architecture
+### 🎨 Mondrian Art: Asymmetric Grid Architecture
 A technical study in **Abstract UI Composition** using the **CSS Grid** engine.
 * **Technicals:** Mastered **Line-Based Placement** and **Spanning Logic** to create a non-uniform coordinate system.
 * **Objective:** To build complex, irregular layouts using **Fractional Geometry** and **Box Model Precision** for surgical element placement.
